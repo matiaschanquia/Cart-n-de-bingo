@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase9 - Ejercicio 2 - Bingo/1.0.0": {
+        "runtime": {
+          "Clase9 - Ejercicio 2 - Bingo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase9 - Ejercicio 2 - Bingo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

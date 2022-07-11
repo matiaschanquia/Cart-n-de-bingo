@@ -1,0 +1,15 @@
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\bin\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.exe
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\bin\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.deps.json
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\bin\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.runtimeconfig.json
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\bin\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.dll
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\bin\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.pdb
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.csproj.AssemblyReference.cache
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.AssemblyInfoInputs.cache
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.AssemblyInfo.cs
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.dll
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\refint\Clase9 - Ejercicio 2 - Bingo.dll
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.pdb
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\Clase9 - Ejercicio 2 - Bingo.genruntimeconfig.cache
+C:\Users\MARCELO\OneDrive\Escritorio-de-Matias\Cursos\9 Introduccion a .NET\Proyectos\Clase9 - Ejercicio 2 - Bingo\obj\Debug\net6.0\ref\Clase9 - Ejercicio 2 - Bingo.dll
